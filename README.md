@@ -1,6 +1,6 @@
 - Hi, I’m @JuliaHanack
 - As a QA I'm interested in test automation & work flow optimization (and honestly if you ask me: video games)
-- Current goal ist to level up my test management skills
+- Current goal ist to level up my docker skills
 - 📫 How to reach me: julia.hanack@protonmail.com
 
 <!---
